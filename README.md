@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aatman0212/LeetCode/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/aatman0212/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/aatman0212/LeetCode/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,4 +17,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/aatman0212/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/aatman0212/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
