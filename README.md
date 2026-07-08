@@ -22,6 +22,7 @@
 | [0040-combination-sum-ii](https://github.com/aatman0212/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/aatman0212/LeetCode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/aatman0212/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/aatman0212/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/aatman0212/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1025-divisor-game](https://github.com/aatman0212/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -42,4 +44,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/aatman0212/LeetCode/tree/master/1025-divisor-game) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/aatman0212/LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
