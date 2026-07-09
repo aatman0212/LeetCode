@@ -28,11 +28,13 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aatman0212/LeetCode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/aatman0212/LeetCode/tree/master/0090-subsets-ii) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aatman0212/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/aatman0212/LeetCode/tree/master/0067-add-binary) |
 | [1025-divisor-game](https://github.com/aatman0212/LeetCode/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -52,9 +54,14 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/aatman0212/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/aatman0212/LeetCode/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/aatman0212/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aatman0212/LeetCode/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/aatman0212/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
