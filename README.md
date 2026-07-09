@@ -49,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/aatman0212/LeetCode/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/aatman0212/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Divide and Conquer
 |  |
