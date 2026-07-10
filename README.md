@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aatman0212/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aatman0212/LeetCode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/aatman0212/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/aatman0212/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aatman0212/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/aatman0212/LeetCode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/aatman0212/LeetCode/tree/master/0079-word-search) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/aatman0212/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/aatman0212/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/aatman0212/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/aatman0212/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aatman0212/LeetCode/tree/master/0090-subsets-ii) |
