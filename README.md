@@ -11,6 +11,7 @@
 | [0040-combination-sum-ii](https://github.com/aatman0212/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/aatman0212/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/aatman0212/LeetCode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/aatman0212/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aatman0212/LeetCode/tree/master/0090-subsets-ii) |
 ## Binary Search
 |  |
@@ -23,6 +24,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/aatman0212/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/aatman0212/LeetCode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/aatman0212/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aatman0212/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/aatman0212/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
@@ -55,6 +57,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/aatman0212/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aatman0212/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/aatman0212/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aatman0212/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Divide and Conquer
 |  |
@@ -64,4 +67,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aatman0212/LeetCode/tree/master/0067-add-binary) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aatman0212/LeetCode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aatman0212/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
