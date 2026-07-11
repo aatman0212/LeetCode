@@ -25,6 +25,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/aatman0212/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/aatman0212/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/aatman0212/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/aatman0212/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/aatman0212/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aatman0212/LeetCode/tree/master/0090-subsets-ii) |
