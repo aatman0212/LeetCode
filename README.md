@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/aatman0212/LeetCode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/aatman0212/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aatman0212/LeetCode/tree/master/0090-subsets-ii) |
+| [0200-number-of-islands](https://github.com/aatman0212/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aatman0212/LeetCode/tree/master/0733-flood-fill) |
 ## Binary Search
 |  |
@@ -75,11 +76,13 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aatman0212/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/aatman0212/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aatman0212/LeetCode/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aatman0212/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/aatman0212/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aatman0212/LeetCode/tree/master/0733-flood-fill) |
 ## Stack
 |  |
@@ -92,5 +95,10 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aatman0212/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aatman0212/LeetCode/tree/master/0733-flood-fill) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aatman0212/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
