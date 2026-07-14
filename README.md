@@ -18,6 +18,7 @@
 | [0463-island-perimeter](https://github.com/aatman0212/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/aatman0212/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aatman0212/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/aatman0212/LeetCode/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0463-island-perimeter](https://github.com/aatman0212/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/aatman0212/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aatman0212/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/aatman0212/LeetCode/tree/master/0994-rotting-oranges) |
 ## Stack
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | [0463-island-perimeter](https://github.com/aatman0212/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/aatman0212/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aatman0212/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/aatman0212/LeetCode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
