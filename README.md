@@ -113,4 +113,12 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/aatman0212/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/aatman0212/LeetCode/tree/master/0695-max-area-of-island) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aatman0212/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aatman0212/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
