@@ -67,6 +67,7 @@
 | [0067-add-binary](https://github.com/aatman0212/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/aatman0212/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aatman0212/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aatman0212/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/aatman0212/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aatman0212/LeetCode/tree/master/0155-min-stack) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aatman0212/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
 | ------- |
@@ -151,4 +153,12 @@
 | [0876-middle-of-the-linked-list](https://github.com/aatman0212/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aatman0212/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aatman0212/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aatman0212/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aatman0212/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
