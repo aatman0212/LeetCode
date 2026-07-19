@@ -17,6 +17,7 @@
 | [0200-number-of-islands](https://github.com/aatman0212/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/aatman0212/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/aatman0212/LeetCode/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/aatman0212/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/aatman0212/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aatman0212/LeetCode/tree/master/0994-rotting-oranges) |
 ## Binary Search
@@ -25,6 +26,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aatman0212/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aatman0212/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aatman0212/LeetCode/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/aatman0212/LeetCode/tree/master/0704-binary-search) |
 ## Backtracking
 |  |
 | ------- |
