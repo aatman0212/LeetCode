@@ -11,6 +11,7 @@
 | [0040-combination-sum-ii](https://github.com/aatman0212/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/aatman0212/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aatman0212/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aatman0212/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/aatman0212/LeetCode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/aatman0212/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aatman0212/LeetCode/tree/master/0090-subsets-ii) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aatman0212/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aatman0212/LeetCode/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/aatman0212/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1025-divisor-game](https://github.com/aatman0212/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -162,6 +164,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aatman0212/LeetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/aatman0212/LeetCode/tree/master/0409-longest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aatman0212/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
