@@ -73,6 +73,7 @@
 | [0079-word-search](https://github.com/aatman0212/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aatman0212/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0409-longest-palindrome](https://github.com/aatman0212/LeetCode/tree/master/0409-longest-palindrome) |
+| [0844-backspace-string-compare](https://github.com/aatman0212/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aatman0212/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Divide and Conquer
 |  |
@@ -83,6 +84,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/aatman0212/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/aatman0212/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/aatman0212/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [0143-reorder-list](https://github.com/aatman0212/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aatman0212/LeetCode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/aatman0212/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/aatman0212/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aatman0212/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
@@ -161,6 +164,7 @@
 | [0141-linked-list-cycle](https://github.com/aatman0212/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aatman0212/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/aatman0212/LeetCode/tree/master/0143-reorder-list) |
+| [0844-backspace-string-compare](https://github.com/aatman0212/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/aatman0212/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aatman0212/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aatman0212/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
