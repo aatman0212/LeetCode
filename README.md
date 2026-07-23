@@ -74,6 +74,7 @@
 | [0131-palindrome-partitioning](https://github.com/aatman0212/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0409-longest-palindrome](https://github.com/aatman0212/LeetCode/tree/master/0409-longest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/aatman0212/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aatman0212/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aatman0212/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Divide and Conquer
 |  |
@@ -109,6 +110,7 @@
 | [0155-min-stack](https://github.com/aatman0212/LeetCode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/aatman0212/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/aatman0212/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aatman0212/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aatman0212/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
