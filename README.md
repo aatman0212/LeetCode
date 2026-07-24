@@ -77,6 +77,7 @@
 | [0131-palindrome-partitioning](https://github.com/aatman0212/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0409-longest-palindrome](https://github.com/aatman0212/LeetCode/tree/master/0409-longest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/aatman0212/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/aatman0212/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aatman0212/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aatman0212/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/aatman0212/LeetCode/tree/master/1544-make-the-string-great) |
@@ -117,6 +118,7 @@
 | [0682-baseball-game](https://github.com/aatman0212/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aatman0212/LeetCode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/aatman0212/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/aatman0212/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aatman0212/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aatman0212/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/aatman0212/LeetCode/tree/master/1544-make-the-string-great) |
