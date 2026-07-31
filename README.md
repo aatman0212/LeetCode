@@ -18,6 +18,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/aatman0212/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/aatman0212/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/aatman0212/LeetCode/tree/master/0463-island-perimeter) |
+| [0503-next-greater-element-ii](https://github.com/aatman0212/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/aatman0212/LeetCode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/aatman0212/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/aatman0212/LeetCode/tree/master/0704-binary-search) |
@@ -116,6 +117,7 @@
 | [0143-reorder-list](https://github.com/aatman0212/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aatman0212/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aatman0212/LeetCode/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/aatman0212/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/aatman0212/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aatman0212/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aatman0212/LeetCode/tree/master/0739-daily-temperatures) |
@@ -191,6 +193,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/aatman0212/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/aatman0212/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aatman0212/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
