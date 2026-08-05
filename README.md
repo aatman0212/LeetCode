@@ -84,6 +84,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aatman0212/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/aatman0212/LeetCode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aatman0212/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2211-count-collisions-on-a-road](https://github.com/aatman0212/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0682-baseball-game](https://github.com/aatman0212/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aatman0212/LeetCode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/aatman0212/LeetCode/tree/master/0844-backspace-string-compare) |
+| [2211-count-collisions-on-a-road](https://github.com/aatman0212/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aatman0212/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/aatman0212/LeetCode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aatman0212/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2211-count-collisions-on-a-road](https://github.com/aatman0212/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Design
 |  |
 | ------- |
