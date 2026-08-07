@@ -80,6 +80,7 @@
 | [0409-longest-palindrome](https://github.com/aatman0212/LeetCode/tree/master/0409-longest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/aatman0212/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/aatman0212/LeetCode/tree/master/0856-score-of-parentheses) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/aatman0212/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aatman0212/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aatman0212/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/aatman0212/LeetCode/tree/master/1544-make-the-string-great) |
@@ -126,6 +127,7 @@
 | [0739-daily-temperatures](https://github.com/aatman0212/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/aatman0212/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/aatman0212/LeetCode/tree/master/0856-score-of-parentheses) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/aatman0212/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aatman0212/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aatman0212/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/aatman0212/LeetCode/tree/master/1544-make-the-string-great) |
