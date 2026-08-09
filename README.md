@@ -14,6 +14,7 @@
 | [0055-jump-game](https://github.com/aatman0212/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/aatman0212/LeetCode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/aatman0212/LeetCode/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aatman0212/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/aatman0212/LeetCode/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aatman0212/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/aatman0212/LeetCode/tree/master/0200-number-of-islands) |
@@ -118,6 +119,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/aatman0212/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/aatman0212/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aatman0212/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aatman0212/LeetCode/tree/master/0155-min-stack) |
@@ -200,7 +202,12 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/aatman0212/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/aatman0212/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/aatman0212/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aatman0212/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/aatman0212/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
