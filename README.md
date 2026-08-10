@@ -27,6 +27,7 @@
 | [0735-asteroid-collision](https://github.com/aatman0212/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aatman0212/LeetCode/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/aatman0212/LeetCode/tree/master/0994-rotting-oranges) |
+| [1472-design-browser-history](https://github.com/aatman0212/LeetCode/tree/master/1472-design-browser-history) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/aatman0212/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aatman0212/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aatman0212/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1472-design-browser-history](https://github.com/aatman0212/LeetCode/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/aatman0212/LeetCode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aatman0212/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/aatman0212/LeetCode/tree/master/2211-count-collisions-on-a-road) |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aatman0212/LeetCode/tree/master/0155-min-stack) |
+| [1472-design-browser-history](https://github.com/aatman0212/LeetCode/tree/master/1472-design-browser-history) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -166,6 +169,7 @@
 | [0206-reverse-linked-list](https://github.com/aatman0212/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aatman0212/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aatman0212/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/aatman0212/LeetCode/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aatman0212/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aatman0212/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -210,4 +214,12 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aatman0212/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/aatman0212/LeetCode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/aatman0212/LeetCode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
