@@ -38,6 +38,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aatman0212/LeetCode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/aatman0212/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/aatman0212/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/aatman0212/LeetCode/tree/master/0052-n-queens-ii) |
@@ -60,6 +61,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aatman0212/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/aatman0212/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aatman0212/LeetCode/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/aatman0212/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -75,6 +77,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aatman0212/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/aatman0212/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aatman0212/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/aatman0212/LeetCode/tree/master/0079-word-search) |
@@ -222,4 +225,8 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/aatman0212/LeetCode/tree/master/1472-design-browser-history) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aatman0212/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
