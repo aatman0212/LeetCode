@@ -45,12 +45,14 @@
 | [0052-n-queens-ii](https://github.com/aatman0212/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/aatman0212/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/aatman0212/LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/aatman0212/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/aatman0212/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/aatman0212/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aatman0212/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/aatman0212/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/aatman0212/LeetCode/tree/master/0090-subsets-ii) |
 ## Math
 |  |
@@ -58,6 +60,7 @@
 | [0048-rotate-image](https://github.com/aatman0212/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aatman0212/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aatman0212/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/aatman0212/LeetCode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aatman0212/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1025-divisor-game](https://github.com/aatman0212/LeetCode/tree/master/1025-divisor-game) |
 ## Dynamic Programming
