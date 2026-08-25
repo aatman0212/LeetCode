@@ -29,6 +29,7 @@
 | [0739-daily-temperatures](https://github.com/aatman0212/LeetCode/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/aatman0212/LeetCode/tree/master/0994-rotting-oranges) |
 | [1472-design-browser-history](https://github.com/aatman0212/LeetCode/tree/master/1472-design-browser-history) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aatman0212/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -201,6 +202,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/aatman0212/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aatman0212/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0409-longest-palindrome](https://github.com/aatman0212/LeetCode/tree/master/0409-longest-palindrome) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aatman0212/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
