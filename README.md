@@ -63,6 +63,7 @@
 | [0067-add-binary](https://github.com/aatman0212/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/aatman0212/LeetCode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aatman0212/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/aatman0212/LeetCode/tree/master/0202-happy-number) |
 | [1025-divisor-game](https://github.com/aatman0212/LeetCode/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -201,6 +202,7 @@
 | [0141-linked-list-cycle](https://github.com/aatman0212/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aatman0212/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aatman0212/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/aatman0212/LeetCode/tree/master/0202-happy-number) |
 | [0409-longest-palindrome](https://github.com/aatman0212/LeetCode/tree/master/0409-longest-palindrome) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aatman0212/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -213,6 +215,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/aatman0212/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/aatman0212/LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aatman0212/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/aatman0212/LeetCode/tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/aatman0212/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/aatman0212/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aatman0212/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -256,4 +259,8 @@
 | ------- |
 | [0112-path-sum](https://github.com/aatman0212/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/aatman0212/LeetCode/tree/master/0226-invert-binary-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/aatman0212/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
