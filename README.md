@@ -55,6 +55,7 @@
 | [0067-add-binary](https://github.com/aatman0212/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/aatman0212/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/aatman0212/LeetCode/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/aatman0212/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/aatman0212/LeetCode/tree/master/0231-power-of-two) |
 ## Math
 |  |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aatman0212/LeetCode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/aatman0212/LeetCode/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
