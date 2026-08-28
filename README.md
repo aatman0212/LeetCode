@@ -55,6 +55,7 @@
 | [0067-add-binary](https://github.com/aatman0212/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/aatman0212/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/aatman0212/LeetCode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/aatman0212/LeetCode/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0089-gray-code](https://github.com/aatman0212/LeetCode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aatman0212/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/aatman0212/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/aatman0212/LeetCode/tree/master/0231-power-of-two) |
 | [1025-divisor-game](https://github.com/aatman0212/LeetCode/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -196,6 +198,7 @@
 | [0143-reorder-list](https://github.com/aatman0212/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/aatman0212/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aatman0212/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/aatman0212/LeetCode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
