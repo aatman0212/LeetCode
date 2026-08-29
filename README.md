@@ -74,6 +74,7 @@
 | [0022-generate-parentheses](https://github.com/aatman0212/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/aatman0212/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aatman0212/LeetCode/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/aatman0212/LeetCode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/aatman0212/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1025-divisor-game](https://github.com/aatman0212/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -90,6 +91,7 @@
 | [0022-generate-parentheses](https://github.com/aatman0212/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/aatman0212/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aatman0212/LeetCode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/aatman0212/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/aatman0212/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aatman0212/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0409-longest-palindrome](https://github.com/aatman0212/LeetCode/tree/master/0409-longest-palindrome) |
