@@ -88,6 +88,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aatman0212/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aatman0212/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/aatman0212/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aatman0212/LeetCode/tree/master/0067-add-binary) |
@@ -139,6 +140,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aatman0212/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aatman0212/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/aatman0212/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aatman0212/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -255,6 +257,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aatman0212/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aatman0212/LeetCode/tree/master/0022-generate-parentheses) |
 ## Tree
 |  |
