@@ -259,6 +259,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aatman0212/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aatman0212/LeetCode/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/aatman0212/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Tree
 |  |
 | ------- |
